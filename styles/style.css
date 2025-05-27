@@ -1,3 +1,6 @@
+.poppins-black {
+  font-family: "Poppins", sans-serif;}
+  
 
 /* nav style */
 *{
@@ -63,7 +66,7 @@ nav{
     border-radius: 10px;
 }
 .dev{
-    padding: 30px 60px;
+    padding: 30px 40px;
     
 }
 .hero-img{
@@ -118,7 +121,7 @@ nav{
     filter: drop-shadow(1px 1px 1px black);
     border: 1px solid rgb(206, 243, 206);
     max-width: 1200px;
-    background:#E6EDF9;
+    background:#ffffff;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -245,6 +248,7 @@ nav{
      /* border: 2px solid rgb(17, 17, 1); */
      display: flex;
      flex-wrap: wrap;
+     row-gap: 20px;
      align-items: center;
      justify-content: space-around;
      /* max-width: 1200px; */
